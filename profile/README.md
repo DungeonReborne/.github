@@ -2,11 +2,6 @@
 
 **Мрачные подземелья · PvPvE · Сообщество RU / ENG**
 
-<p align="center">
-  <a href="https://dungeonreborne.com"><img src="assets/website-button-gap64-v2.svg" alt="Открыть сайт DungeonReborne" width="354" height="76"></a>
-  <a href="https://discord.gg/J9rmpSzBkf"><img src="assets/discord-button.svg" alt="Вступить в Discord DungeonReborne" width="290" height="76"></a>
-</p>
-
 ![Главная страница сайта DungeonReborne — проект для сообщества Dungeonborne](assets/website.png)
 
 **DungeonReborne** — независимый проект для игроков **Dungeonborne**, которым близки мрачное фэнтези, исследование подземелий, опасные рейды и борьба за добычу. Мы развиваем инфраструктуру проекта: сайт, собственный лаунчер, систему аккаунтов и игровые серверы.
@@ -14,6 +9,11 @@
 Если вы ищете **Dungeonborne сервер**, интересуетесь развитием сообщества Dungeonborne или хотите следить за DungeonReborne, начните с нашего сайта: **[dungeonreborne.com](https://dungeonreborne.com)**.
 
 > Проект находится в разработке. Доступность сайта и лаунчера не означает, что публичные игровые серверы уже открыты. Анонсы тестирования и открытия будут публиковаться отдельно.
+
+<p align="center">
+  <a href="https://dungeonreborne.com"><img src="assets/website-button-gap64-v2.svg" alt="Открыть сайт DungeonReborne" width="354" height="76"></a>
+  <a href="https://discord.gg/J9rmpSzBkf"><img src="assets/discord-button.svg" alt="Вступить в Discord DungeonReborne" width="290" height="76"></a>
+</p>
 
 ---
 
@@ -114,7 +114,6 @@ DungeonReborne is an independent community project for Dungeonborne players. We 
 The project is under active development. Public server availability and testing dates will be announced separately. Follow **[DungeonReborne](https://dungeonreborne.com)** for development news, launcher updates, and future Dungeonborne community playtests.
 
 **Официальный сайт проекта DungeonReborne: [dungeonreborne.com](https://dungeonreborne.com).**
-
 
 ---
 
