@@ -2,7 +2,10 @@
 
 **Мрачные подземелья · PvPvE · Сообщество RU / ENG**
 
-[🌐 Сайт проекта](https://dungeonreborne.com) · [💬 Наш Discord](https://discord.gg/J9rmpSzBkf)
+<p align="center">
+  <a href="https://dungeonreborne.com"><img src="assets/website-button.svg" alt="Открыть сайт DungeonReborne" width="290" height="76"></a>
+  <a href="https://discord.gg/J9rmpSzBkf"><img src="assets/discord-button.svg" alt="Вступить в Discord DungeonReborne" width="290" height="76"></a>
+</p>
 
 ![Главная страница сайта DungeonReborne — проект для сообщества Dungeonborne](assets/website.png)
 
@@ -117,4 +120,7 @@ The project is under active development. Public server availability and testing 
 
 **Присоединяйтесь к DungeonReborne**
 
-[🌐 Открыть сайт](https://dungeonreborne.com) · [💬 Вступить в Discord](https://discord.gg/J9rmpSzBkf)
+<p align="center">
+  <a href="https://dungeonreborne.com"><img src="assets/website-button.svg" alt="Открыть сайт DungeonReborne" width="290" height="76"></a>
+  <a href="https://discord.gg/J9rmpSzBkf"><img src="assets/discord-button.svg" alt="Вступить в Discord DungeonReborne" width="290" height="76"></a>
+</p>
